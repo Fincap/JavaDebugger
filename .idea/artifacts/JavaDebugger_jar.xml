@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaDebugger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaDebugger_jar</output-path>
+    <root id="archive" name="JavaDebugger.jar">
+      <element id="module-output" name="JavaDebugger" />
+    </root>
+  </artifact>
+</component>
